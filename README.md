@@ -1,6 +1,6 @@
 # EDDA-Coordinata: An Annotated Dataset of Historical Geographic Coordinates
 
-[![DOI](https://img.shields.io/badge/DOI-10.63317%2F5guc63fgjocp-0A7BBB?logo=doi&logoColor=white)](https://doi.org/10.63317/5guc63fgjocp)
+[![DOI](https://img.shields.io/badge/DOI-10.63317%2F5guc63fgjocp-0A7BBB?logo=doi&logoColor=white)](https://doi.org/10.63317/5guc63fgjocp) [![Hugging Face](https://img.shields.io/badge/🤗%20Hugging%20Face-Dataset-FFD21E?labelColor=000&style=flat)](https://huggingface.co/datasets/GEODE/edda-coordinata)
 
 Code and data accompanying the paper:
 
