@@ -8,9 +8,7 @@ Code and data accompanying the paper:
 Ludovic Moncla, Pierre Nugues, Thierry Joliveau, Katherine McDonough  
 Proceedings of the Fifteenth Language Resources and Evaluation Conference (LREC 2026)  
 DOI: [10.63317/5guc63fgjocp](https://doi.org/10.63317/5guc63fgjocp)  
-Pages: 6224-6234  
-Paper page: [lrec2026-main-493](https://lrec.elra.info/lrec2026-main-493)  
-Preprint: [arXiv:2602.23941](https://arxiv.org/abs/2602.23941)
+Paper: [lrec2026-main-493](https://lrec.elra.info/lrec2026-main-493)  
 
 ## Hugging Face Resources
 
