@@ -1,0 +1,23 @@
+jupyter
+pandas
+numpy
+scikit-learn
+Levenshtein
+openpyxl
+
+# Model training and inference
+torch
+transformers
+datasets
+accelerate
+sentencepiece
+
+# Utilities
+tqdm
+lxml
+
+# Prompting workflow
+openai
+python-dotenv
+instructor
+pydantic
